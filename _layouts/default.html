@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/Article">
+{% include header.html %}
+<body>
+  <div class="off-canvas off-canvas-sidebar-show">
+    <a class="off-canvas-toggle btn btn-primary btn-action" href="#sidebar-id">
+      <i class="icon icon-menu"></i>
+    </a>
+  
+    <div id="sidebar-id" class="off-canvas-sidebar">
+      <a id="close_btn" href="#close"><img src="{{ "/images/close.svg" | absolute_url }}" alt="Menü schließen"></a>
+      <div id="logo-section">
+        <div>
+          <div><img src="{{ "/images/dgfk-logo.svg" | absolute_url }}" alt="DGfK" width="45" height="63" /></div>
+          <div>Deutsche Gesellschaft<br />für Kartographie e.V.</div>
+        </div>
+      </div>
+      <hr />
+      <div id="comission-section">
+        Kommission für <br /><span>Kartographie und Forschung</span>
+      </div>
+      <hr />
+      <nav>
+        <ul class="nav">
+          <!-- TODO: AUTO GENERATE -->
+          <li class="nav-item active">
+            <a href="#">Forschung</a>
+            <ul class="nav">
+              <li class="nav-item"><a href="#">Berichte</a></li>
+              <li class="nav-item"><a href="#">Forschungsagenda</a></li>
+              <li class="nav-item"><a href="#">Standorte der Forschung</a></li>
+              <li class="nav-item"><a href="#">Nachwuchsförderung</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a href="#">Veranstaltungen</a>
+          </li>
+          <li class="nav-item">
+            <a href="#">Über uns</a>
+          </li>
+        </ul>
+      </nav>
+      <div id="footer-section">
+        <ul>
+          <li><a href="#">Kontakt</a></li>
+          <li><a href="#">Impressum</a></li>
+          <li><a href="#">Datenschutz</a></li>
+        </ul>
+      </div>
+    </div>
+  
+  
+    <a class="off-canvas-overlay" href="#close"></a>
+  
+    <div class="off-canvas-content template-{{ page.layout }}">
+      <div id="wrapper">
+        {{ content }}
+
+        {% include footer.html %}
+      </div>
+    </div>
+  </div>
+</body>
+</html>

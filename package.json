@@ -1,0 +1,23 @@
+{
+  "name": "dgfk-kommission-forschung",
+  "version": "1.0.0",
+  "description": "Website for the German cartographic society's research commission",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jekyll": "bundle exec jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian-meier/dgfk-kommission-forschung.git"
+  },
+  "keywords": [
+    "jekyll"
+  ],
+  "author": "sebastian-meier @seb_meier",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/sebastian-meier/dgfk-kommission-forschung/issues"
+  },
+  "homepage": "https://github.com/sebastian-meier/dgfk-kommission-forschung#readme"
+}

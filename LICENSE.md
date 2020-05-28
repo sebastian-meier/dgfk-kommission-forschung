@@ -1,0 +1,1 @@
+ Copyright 2020 DGFK Kommission für Kartographie und Forschung, all rights reserved.

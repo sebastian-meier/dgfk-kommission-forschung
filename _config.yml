@@ -1,0 +1,24 @@
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+exclude: ["_backup", "CNAME", "LICENSE.md", "README.md", "css/includes"]
+
+markdown: kramdown
+permalink: pretty
+
+sass:
+    sass_dir: ./css
+
+# host: https://visualisierung.dgfk.net
+# url: https://visualisierung.dgfk.net
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      title: ""

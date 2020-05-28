@@ -1,0 +1,3 @@
+- privacy
+- legal
+- redirect old pages
