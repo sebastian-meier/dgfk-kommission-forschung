@@ -1,0 +1,34 @@
+de:
+  otherLang: en
+  translate: English
+  society: "Deutsche Gesellschaft für&nbsp;Kartographie e.V."
+  commission:
+    - "Kommission für"
+    - "Kartographie und Forschung"
+  contextMenu:
+    -
+      label: Kontakt 
+      url: "contact"
+    -
+      label: Impressum
+      url: "legal"
+    -
+      label: Datenschutz
+      url: "data-protection"
+en:
+  otherLang: de
+  translate: Deutsch
+  society: "German cartographic society e.V."
+  commission:
+    - "Commission on"
+    - "Cartography and Research"
+  contextMenu:
+    -
+      label: Contact
+      url: "contact"
+    -
+      label: Legal Note
+      url: "legal"
+    -
+      label: Data Protection
+      url: "data-protection"

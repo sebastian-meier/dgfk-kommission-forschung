@@ -1,5 +1,11 @@
 ---
 layout: index
+lang: de
+title: Startseite
+shortTitle: Startseite
+trans: true
+redirect_from:
+  - "/"
 ---
 ### Kommission "Kartographie und Forschung"
 

@@ -1,0 +1,68 @@
+[
+  {
+    "label": {
+      "de": "Startseite",
+      "en": "Home"
+    },
+    "url": "",
+    "visible": false
+  },
+  { 
+    "label": {
+      "de": "Veranstaltungen",
+      "en": "Events"
+    },
+    "url": "events",
+    "visible": true
+  },
+  { 
+    "label": {
+      "de": "Forschung",
+      "en": "Research"
+    },
+    "visible": true,
+    "url": "research",
+    "sub": [
+      {
+        "label": {
+          "de": "Forschungsagenda",
+          "en": "Research agenda"
+        },
+        "url": "research/agenda",
+        "visible": false
+      },
+      {
+        "label": {
+          "de": "Standorte der Forschung",
+          "en": "Research locations"
+        },
+        "url": "research/locations",
+        "visible": true
+      },
+      {
+        "label": {
+          "de": "Nachwuchsförderung",
+          "en": "Young researchers"
+        },
+        "url": "research/young-researchers",
+        "visible": true
+      },
+      {
+        "label": {
+          "de": "Publikationen",
+          "en": "Publications"
+        },
+        "url": "research/publications",
+        "visible": true
+      }
+    ]
+  },
+  {
+    "label": {
+      "de": "Über uns",
+      "en": "About us"
+    },
+    "visible": true,
+    "url": "about-us"
+  }
+]

@@ -94,13 +94,22 @@ nav>.nav>li>a{
 }
 
 .nav .nav-item.active a:hover,
-.nav .nav-item.active .nav .nav-item.active a:hover{
+.nav .nav-item.active a:focus,
+.nav .nav-item.active .nav .nav-item.active a:hover,
+.nav .nav-item.active .nav .nav-item.active a:focus{
   color: $green;
   text-decoration: underline;
 }
 
-.off-canvas-sidebar>nav{
+.off-canvas-sidebar>#language{
   flex-grow: 1;
+  a {
+    color: $darkgrey;
+    text-decoration: none;
+    &:hover {
+      color: $green;
+    }
+  }
 }
 
 #footer-section{

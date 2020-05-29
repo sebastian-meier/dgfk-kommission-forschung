@@ -12,43 +12,48 @@
       <div id="logo-section">
         <div>
           <div><img src="{{ "/images/dgfk-logo.svg" | absolute_url }}" alt="DGfK" width="45" height="63" /></div>
-          <div>Deutsche Gesellschaft<br />für Kartographie e.V.</div>
+          <div>{{ site.data.translations[page.lang].society }}</div>
         </div>
       </div>
       <hr />
       <div id="comission-section">
-        Kommission für <br /><span>Kartographie und Forschung</span>
+        {{ site.data.translations[page.lang].commission[0] }}<br /><span>{{ site.data.translations[page.lang].commission[1] }}</span>
       </div>
       <hr />
       <nav>
         <ul class="nav">
-          <!-- TODO: AUTO GENERATE -->
-          <li class="nav-item active">
-            <a href="#">Forschung</a>
+          {% for item in site.data.menu %}
+          {% assign urlSize = item.url | size %}
+          {% assign urlBase = page.url | slice: 4, urlSize %}
+          {% if item.visible %}
+          <li class="nav-item{% if urlBase == item.url %} active{% endif %}">
+            <a href="/{{ page.lang }}/{{ item.url }}">{{ item.label[page.lang] }}</a>
+            {% if item.sub %}
             <ul class="nav">
-              <li class="nav-item"><a href="#">Berichte</a></li>
-              <li class="nav-item"><a href="#">Forschungsagenda</a></li>
-              <li class="nav-item"><a href="#">Standorte der Forschung</a></li>
-              <li class="nav-item"><a href="#">Nachwuchsförderung</a></li>
+              {% for subitem in item.sub %}
+              {% if subitem.visible %}
+              <li class="nav-item{% if subitem.url == page.url %} active{% endif %}"><a href="{{ subitem.url }}">{{ subitem.label[page.lang] }}</a></li>
+              {% endif %}
+              {% endfor %}
             </ul>
+            {% endif %}
           </li>
-          <li class="nav-item">
-            <a href="#">Veranstaltungen</a>
-          </li>
-          <li class="nav-item">
-            <a href="#">Über uns</a>
-          </li>
+          {% endif %}
+          {% endfor %}
         </ul>
       </nav>
+      <hr />
+      <div id="language">
+        <a href="{% if page.trans %}{{ page.url | replace_first: page.lang, site.data.translations[page.lang].otherLang }}{% else %}/{{ site.data.translations[page.lang].otherLang }}{% endif %}">{{ site.data.translations[page.lang].translate }}</a>
+      </div>
       <div id="footer-section">
         <ul>
-          <li><a href="#">Kontakt</a></li>
-          <li><a href="#">Impressum</a></li>
-          <li><a href="#">Datenschutz</a></li>
+          <li><a href="/{{ page.lang }}/{{ site.data.translations[page.lang].contextMenu[0].url }}">{{ site.data.translations[page.lang].contextMenu[0].label }}</a></li>
+          <li><a href="/{{ page.lang }}/{{ site.data.translations[page.lang].contextMenu[1].url }}">{{ site.data.translations[page.lang].contextMenu[1].label }}</a></li>
+          <li><a href="/{{ page.lang }}/{{ site.data.translations[page.lang].contextMenu[2].url }}">{{ site.data.translations[page.lang].contextMenu[2].label }}</a></li>
         </ul>
       </div>
     </div>
-  
   
     <a class="off-canvas-overlay" href="#close"></a>
   
