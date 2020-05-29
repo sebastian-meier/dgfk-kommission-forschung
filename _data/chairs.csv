@@ -1,7 +1,7 @@
-title,firstname,lastname,institution,image,lead
-Dr.,Sebastian,Meier,Technologiestiftung Berlin,sebastian.jpg,"Kommissionsleiter"
-Prof. Dr.,Jochen,Schiewe,HafenCity Universität Hamburg,jochen.jpg,"Präsident, DGfK"
-Prof. Dr.,Doris,Dransch,GFZ Potsdam,dransch.jpg,false
-Prof. Dr.,Sara,Fabrikant,Universität Zürich,fabrikant.jpg,false
-Prof. Dr.,Georg,Gartner,TU Wien,gartner.jpg,false
-Prof. Dr.,Monika,Sester,Leibniz Universität Hannover,sester.jpg,false
+title,firstname,lastname,institution,image,lead,url
+Dr.,Sebastian,Meier,Technologiestiftung Berlin,meier.jpg,"Kommissionsleiter",https://www.sebastianmeier.eu
+Prof. Dr.,Jochen,Schiewe,HafenCity Universität Hamburg,schiewe.jpg,"Präsident, DGfK",https://www.hcu-hamburg.de/research/arbeitsgebiete-professuren/jochen-schiewe/
+Prof. Dr.,Doris,Dransch,GFZ Potsdam,dransch.jpg,false,https://www.gfz-potsdam.de/staff/doris-dransch/
+Prof. Dr.,Sara,Fabrikant,Universität Zürich,fabrikant.jpg,false,https://www.geo.uzh.ch/geolean/en/units/giva/staff/?content=sarafabrikant
+Prof. Dr.,Georg,Gartner,TU Wien,gartner.jpg,false,https://cartography.tuwien.ac.at/georg-gartner/
+Prof. Dr.,Monika,Sester,Leibniz Universität Hannover,sester.jpg,false,https://www.ikg.uni-hannover.de/sester.html
