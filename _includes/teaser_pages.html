@@ -8,7 +8,8 @@
     </div>
   </div>
 </section>
-<section id="teaser" class="page">
+<section id="teaser" class="page{% if page.subtitle %} with-subtitle{% endif %}">
   <h2><span>{{ page.parent }}</span></h2>
   <h1><span class="large">{{ page.title }}</span></h1>
+  {% if page.subtitle %}<h2><span>{{ page.subtitle }}</span></h2>{% endif %}
 </section>
