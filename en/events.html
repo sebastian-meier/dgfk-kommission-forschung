@@ -1,0 +1,52 @@
+---
+layout: page
+title: Events
+parent: " "
+lang: en
+shortTitle: Events
+trans: true
+---
+
+<h3>Upcoming events</h3>
+<ul class="eventlist">
+{% assign event_count = 0 %}
+{% assign today = "now" | date: "%Y-%m-%d" %}
+{% assign events = site.data.events_en | sort_natural: "date" | reverse %}
+{% assign current_events = events | where_exp:"event", "event.date >= today" %}
+{% for event in current_events %}
+  <li>
+    {{event.date | date: "%Y/%m/%d"}}, {{event.location}}, {{event.type}}<br />
+    <strong>{{ event.title }}</strong>
+    {{ event.subtitle }}{% if event.subtitle %}<br />{% endif %}
+    <a href="{{event.url}}" class="btn">Learn more &raquo;</a>
+  </li>
+  {% capture event_count %}{{ event_count | plus:1 }}{% endcapture %}
+{% endfor %}
+{% if event_count == 0 %}
+  <li>We are sorry, but there are not upcoming events.</li>
+{% endif %}
+</ul>
+
+<h3>Event archive</h3>
+<ul class="eventlist">
+{% assign today = "now" | date: "%Y-%m-%d" %}
+{% assign past_events = events | where_exp:"event", "event.date < today" %}
+{% for event in past_events %}
+  <li>
+    {{event.date | date: "%Y/%m/%d"}}, {{event.location}}, {{event.type}}<br />
+    <strong>{{ event.title }}</strong>
+    {{ event.subtitle }}{% if event.subtitle %}<br />{% endif %}
+    <a href="{{event.url}}" class="btn">Learn more &raquo;</a>
+  </li>
+{% endfor %}
+</ul>
+
+<h3>History</h3>
+
+<p>
+  The first kick-off meeting of the commission on cartography and research, March 9th 2011, at the HafenCity University Hamburg.
+  <figure>
+    <img class="responsive" src="/images/historie.jpg" alt="Participants of the kick-off meeting in Hamburg" />
+    <figcaption>Participants of the kick-off meeting in Hamburg (Photo: Kinkeldey, HCU Hamburg)</figcaption>
+  </figure>
+</p>

@@ -382,6 +382,17 @@ article{
   li{
     font-size:20px;
   }
+
+  p,li{
+    a{
+      color: $green;
+      text-decoration: none;
+      &:hover{
+        color: $green;
+        text-decoration: underline;
+      }
+    }
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -411,6 +422,10 @@ a.card {
   }
   color:#3b4351;
   text-decoration: none;
+}
+
+article a.card img{
+  margin-top:0;
 }
 
 /*----- Events -----*/

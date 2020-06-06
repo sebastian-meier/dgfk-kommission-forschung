@@ -4,7 +4,7 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 
-exclude: ["_backup", "CNAME", "LICENSE.md", "README.md", "css/includes"]
+exclude: ["_backup", "CNAME", "LICENSE.md", "README.md", "css/includes", "backup"]
 
 markdown: kramdown
 permalink: pretty
@@ -22,3 +22,6 @@ defaults:
     values:
       layout: "default"
       title: ""
+      lang: "de"
+      description: "Kommission für Kartographie und Forschung - Deutsche Gesellschaft für Kartographie, DGfK"
+      socialMedia: "/images/social_media.jpg"

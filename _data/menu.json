@@ -5,7 +5,7 @@
       "en": "Home"
     },
     "url": "",
-    "visible": false
+    "visible": true
   },
   { 
     "label": {
@@ -63,6 +63,24 @@
       "en": "About us"
     },
     "visible": true,
-    "url": "about-us"
+    "url": "about-us",
+    "sub": [
+      {
+        "label": {
+          "de": "Ziele",
+          "en": "Goals"
+        },
+        "url": "about-us/goals",
+        "visible": true
+      },
+      {
+        "label": {
+          "de": "Personen",
+          "en": "People"
+        },
+        "url": "about-us/people",
+        "visible": true
+      }
+    ]
   }
 ]

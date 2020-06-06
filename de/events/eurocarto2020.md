@@ -1,15 +1,21 @@
 ---
 layout: page
 title: "Nachwuchswissenschaftlerworkshop:<br >Service-orientierte Kartographie"
+shortTitle: "Nachwuchs-Workshop 2020"
+trans: false
+lang: de
 subtitle: 19.09.2020 - Virtuell
 parent: Veranstaltungen
+redirect_from:
+  - "/eurocarto/index.html"
 ---
 
 *Welchen Einfluss haben neue Rahmenbedingungen, Nutzungskontexte und Nutzungsverhalten auf die Produktion kartographischer Produkte?*
 
 ### Einleitung
 
-Die Digitalisierung der Kartographie hat einen grundlegenden Paradigmenwechsel ausgelöst, dies gilt sowohl in Hinblick auf die Produktion als auch die Nutzung von kartographischen Produkten. Dieser hat sich in den letzten Jahren, bedingt durch die wachsenden Datenmengen und neue Nutzungskontexte, weiter verschärft. Was heute auch als service-orientierte Kartographie beschrieben wird, macht einen Wandel hin zu z.B. dezentralen Datenstrukturen, Echtzeitinformationen, Partizipation oder Personalisierung deutlich. Wo früher das „sammeln – zusammenführen – speichern“ durchgeführt wurde, steht heute das „wiederverwenden – zusammenführen – teilen“ im Vordergrund (Jobst & Gartner, 2019). Wo früher Atlanten für die Ewigkeit geschaffen wurden, entstehen heute kurzlebige Karten für Nachrichtenartikel im Netz. Die Arbeit mit dezentralen, heterogenen Datenquellen, das Wiederverwenden von Kartenstilen in unterschiedlichen Kontexten, oder die automatisierte Generierung von individuellen Kartenansichten, als Beispiele für diese Entwicklung, stellt uns als Kartograph\*innen vor neue technische und methodische Herausforderungen. Im Rahmen des Nachwuchswissenschaftler\*innen Workshops wollen wir uns mit Fragestellungen rund um diesen Paradigmenwechsel beschäftigen. 
+Die Digitalisierung der Kartographie hat einen grundlegenden Paradigmenwechsel ausgelöst, dies gilt sowohl in Hinblick auf die Produktion als auch die Nutzung von kartographischen Produkten. Dieser hat sich in den letzten Jahren, bedingt durch die wachsenden Datenmengen und neue Nutzungskontexte, weiter verschärft. Was heute auch als service-orientierte Kartographie beschrieben wird, macht einen Wandel hin zu z.B. dezentralen Datenstrukturen, Echtzeitinformationen, Partizipation oder Personalisierung deutlich. Wo früher das „sammeln – zusammenführen – speichern“ durchgeführt wurde, steht heute das „wiederverwenden – zusammenführen – teilen“ im Vordergrund (Jobst & Gartner, 2019). Wo früher Atlanten für die Ewigkeit geschaffen wurden, entstehen heute kurzlebige Karten für Nachrichtenartikel im Netz. Die Arbeit mit dezentralen, heterogenen Datenquellen, das Wiederverwenden von Kartenstilen in unterschiedlichen Kontexten, oder die automatisierte Generierung von individuellen Kartenansichten, als Beispiele für diese Entwicklung, stellt uns als Kartograph\*innen vor neue technische und methodische Herausforderungen. Im Rahmen des Nachwuchswissenschaftler\*innen Workshops wollen wir uns mit Fragestellungen rund um diesen Paradigmenwechsel beschäftigen.
+<br /><small>Wir vertreten eine offene Interpretation des Begriffes Nachwuchswissenschaftler\*in. Für uns fallen alle Personen darunter, die sich selber davon angesprochen fühlen: z.B. Student\*innen, Doktorand\*innen, Post-Doktorand\*innen, etc. Das eigentliche Alter ist nicht ausschlaggebend.</small>
 
 ### Zeit und Ort
 *19.09.2020 – Virtuell*<br />

@@ -7,7 +7,7 @@ shortTitle: Veranstaltungen
 trans: true
 ---
 
-<h3>Aktuelle Veranstaltungen {{now}}</h3>
+<h3>Aktuelle Veranstaltungen</h3>
 <ul class="eventlist">
 {% assign event_count = 0 %}
 {% assign today = "now" | date: "%Y-%m-%d" %}
@@ -18,7 +18,7 @@ trans: true
     {{event.date | date: "%d.%m.%Y"}}, {{event.location}}, {{event.type}}<br />
     <strong>{{ event.title }}</strong>
     {{ event.subtitle }}{% if event.subtitle %}<br />{% endif %}
-    <a href="{{event.url}}}" class="btn">Mehr erfahren &raquo;</a>
+    <a href="{{event.url}}" class="btn">Mehr erfahren &raquo;</a>
   </li>
   {% capture event_count %}{{ event_count | plus:1 }}{% endcapture %}
 {% endfor %}
@@ -36,7 +36,7 @@ trans: true
     {{event.date | date: "%d.%m.%Y"}}, {{event.location}}, {{event.type}}<br />
     <strong>{{ event.title }}</strong>
     {{ event.subtitle }}{% if event.subtitle %}<br />{% endif %}
-    <a href="{{event.url}}}" class="btn">Mehr erfahren &raquo;</a>
+    <a href="{{event.url}}" class="btn">Mehr erfahren &raquo;</a>
   </li>
 {% endfor %}
 </ul>

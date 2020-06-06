@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/Article">
+<html lang="{{ page.lang }}" itemscope itemtype="http://schema.org/Article">
 {% include header.html %}
 <body>
   <div class="off-canvas off-canvas-sidebar-show">
@@ -26,13 +26,14 @@
           {% assign urlSize = item.url | size %}
           {% assign urlBase = page.url | slice: 4, urlSize %}
           {% if item.visible %}
-          <li class="nav-item{% if urlBase == item.url %} active{% endif %}">
+          <li class="nav-item{% if urlBase == item.url and item.url != "" %} active{% endif %}">
             <a href="/{{ page.lang }}/{{ item.url }}">{{ item.label[page.lang] }}</a>
             {% if item.sub %}
             <ul class="nav">
               {% for subitem in item.sub %}
               {% if subitem.visible %}
-              <li class="nav-item{% if subitem.url == page.url %} active{% endif %}"><a href="{{ subitem.url }}">{{ subitem.label[page.lang] }}</a></li>
+              {% assign fullUrl = "/" | append: page.lang | append: "/" | append: subitem.url | append: "/" %}
+              <li class="nav-item{% if page.url == fullUrl %} active{% endif %}"><a href="/{{page.lang}}/{{ subitem.url }}">{{ subitem.label[page.lang] }}</a></li>
               {% endif %}
               {% endfor %}
             </ul>

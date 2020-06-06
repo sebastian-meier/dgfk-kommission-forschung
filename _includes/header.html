@@ -1,10 +1,23 @@
+{% if page.shortTitle == "" %}
+{% assign title = "DGfK - Forschung" %}
+{% elsif page.title == "" %}
+{% assign title = "DGfK - Forschung" %}
+{% elsif page.shortTitle %}
+{% assign title = "DGfK - Forschung | " | append: page.shortTitle %}
+{% else %}
+{% assign title = "DGfK - Forschung | " | append: page.title %}
+{% endif %}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Sebastian Meier | @seb_meier">
-  <meta name="description" content="Kommission für Kartographie und Forschung - Deutsche Gesellschaft für Kartographie, DGfK">
+  <meta name="description" content="{{ page.description }}">
   <meta http-equiv="last-modified" content="{{ site.time }}">
+
+  {% if page.trans %}
+  <link rel="alternate" hreflang="{{ site.data.translations[page.lang].otherLang }}" href="{{ page.url | replace_first: page.lang, site.data.translations[page.lang].otherLang }}" />
+  {% endif %}
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/images/icons/apple-touch-icon.png" | absolute_url }}">
 
@@ -18,32 +31,32 @@
   <meta name="msapplication-TileColor" content="#2691d5">
   <meta name="theme-color" content="#ffffff">
 
-  <meta itemprop="name" content="DGfK - Forschung | {{ page.title }}">
+  <meta itemprop="name" content="{{ title }}">
   <meta itemprop="datePublished" content="{{ site.time }}">
   <meta itemprop="dateModified" content="{{ site.time }}">
   <meta itemprop="author" content="Sebastian Meier | @seb_meier">
   <meta itemprop="publisher" content="Sebastian Meier | @seb_meier">
-  <meta itemprop="headline" content="DGfK - Forschung | {{ page.title }}">
+  <meta itemprop="headline" content="{{ title }}">
   <meta itemprop="mainEntityOfPage" content="https://visualisierung.dgfk.net">
-  <meta itemprop="description" content="Kommission für Kartographie und Forschung - Deutsche Gesellschaft für Kartographie, DGfK">
-  <meta itemprop="image" content="{{ "/images/social_media.jpg" | absolute_url }}">
+  <meta itemprop="description" content="{{ page.description }}">
+  <meta itemprop="image" content="{{ page.socialMedia | absolute_url }}">
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@dgfk_net">
-  <meta name="twitter:title" content="DGfK - Forschung | {{ page.title }}">
-  <meta name="twitter:description" content="Kommission für Kartographie und Forschung - Deutsche Gesellschaft für Kartographie, DGfK">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
   <meta name="twitter:creator" content="@seb_meier">
-  <meta name="twitter:image" content="{{ "/images/social_media.jpg" | absolute_url }}">
+  <meta name="twitter:image" content="{{ page.socialMedia | absolute_url }}">
 
-  <meta property="og:title" content="DGfK - Forschung | {{ page.title }}">
+  <meta property="og:title" content="{{ title }}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://visualisierung.dgfk.net">
-  <meta property="og:image" content="{{ "/images/social_media.jpg" | absolute_url }}">
-  <meta property="og:description" content="Kommission für Kartographie und Forschung - Deutsche Gesellschaft für Kartographie, DGfK">
+  <meta property="og:image" content="{{ page.socialMedia | absolute_url }}">
+  <meta property="og:description" content="">
   <meta property="og:site_name" content="https://visualisierung.dgfk.net">
   <meta property="article:published_time" content="{{ site.time }}">
   <meta property="article:modified_time" content="{{ site.time }}">
-  <title>DGfK - Forschung | {{ page.title }}</title>
+  <title>{{ title }}</title>
 
   <link rel="stylesheet" href="/css/spectre/spectre.min.css">
   <link rel="stylesheet" href="/css/spectre/spectre-exp.min.css">
