@@ -5,7 +5,7 @@ title: Home
 shortTitle: Home
 trans: true
 redirect_from:
-  - "/"
+  - "/englisch.htm"
 ---
 ### Commission "Cartography and research"
 

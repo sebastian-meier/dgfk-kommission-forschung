@@ -5,6 +5,8 @@ parent: "Über uns"
 lang: de
 shortTitle: "Personen"
 trans: true
+redirect_from:
+  - "/personen.html"
 ---
 
 ### Steuerungsgruppe:

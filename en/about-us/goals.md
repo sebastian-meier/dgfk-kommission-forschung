@@ -5,6 +5,8 @@ parent: "About us"
 lang: en
 shortTitle: "Goals"
 trans: true
+redirect_from:
+  - "/goals.html"
 ---
 
 ### 1. Propagating and promoting the scientific positioning of Cartography and its self-conception to be the responsible discipline for the communication of spatial data

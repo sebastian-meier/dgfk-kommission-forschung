@@ -4,6 +4,8 @@ lang: en
 title: About us
 shortTitle: About us
 trans: true
+redirect_from:
+  - "/topics.html"
 ---
 ### Activities:
 - The compilation of a White Paper dealing with the research agenda in Cartography (embedded into the research agenda of ICA) is considered as one important activity.

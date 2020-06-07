@@ -4,6 +4,9 @@ lang: de
 title: Über uns
 shortTitle: Über uns
 trans: true
+redirect_from:
+  - "/aufgaben.html"
+  - "/themen.html"
 ---
 ### Generelle Aktivitäten:
 - Als eine zielführende Aktivität wird die Erstellung eines White Paper zur Forschungsagenda Kartographie aus Sicht der deutschsprachigen Kartographie (u.U. eingebunden in die Research Agenda der ICA) angesehen.

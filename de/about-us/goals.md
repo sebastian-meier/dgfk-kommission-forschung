@@ -5,6 +5,8 @@ parent: "Über uns"
 lang: de
 shortTitle: "Ziele"
 trans: true
+redirect_from:
+  - "/ziele.html"
 ---
 
 ### 1. Propagierung und Förderung der wissenschaftlichen Positionierung der Kartographie sowie ihres Selbstverständnisses, verantwortliche Disziplin für die Kommunikation raumbezogener Informationen zu sein
