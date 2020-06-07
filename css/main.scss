@@ -393,7 +393,10 @@ article{
     a{
       color: $green;
       text-decoration: none;
-      &:hover{
+      &:visited{
+        color: $green;
+      }
+      &:hover, &:active{
         color: $green;
         text-decoration: underline;
       }
