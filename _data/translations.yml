@@ -14,7 +14,7 @@ de:
       url: "legal"
     -
       label: Datenschutz
-      url: "data-protection"
+      url: "datapolicy"
 en:
   otherLang: de
   translate: Deutsch
@@ -31,4 +31,4 @@ en:
       url: "legal"
     -
       label: Data Protection
-      url: "data-protection"
+      url: "datapolicy"

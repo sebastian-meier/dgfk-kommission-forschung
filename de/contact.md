@@ -6,8 +6,8 @@ shortTitle: Kontakt
 trans: true
 ---
 ## DGfK - Kommission für Kartographie und Forschung
-Kommissionsleiter
-Dr. Sebastian Meier
+Kommissionsleiter<br />
+Dr. Sebastian Meier<br />
 [kontakt@sebastianmeier.eu](mailto:kontakt@sebastianmeier.eu)
 
 ## DGfK

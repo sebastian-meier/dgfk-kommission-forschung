@@ -6,8 +6,8 @@ shortTitle: Contact
 trans: true
 ---
 ## DGfK - Commission on Cartography and Research
-Commission Chair
-Dr. Sebastian Meier
+Commission Chair<br />
+Dr. Sebastian Meier<br />
 [kontakt@sebastianmeier.eu](mailto:kontakt@sebastianmeier.eu)
 
 ## DGfK
