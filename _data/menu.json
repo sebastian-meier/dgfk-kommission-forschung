@@ -7,6 +7,30 @@
     "url": "",
     "visible": true
   },
+  {
+    "label": {
+      "de": "Kontakt",
+      "en": "Contact"
+    },
+    "url": "contact",
+    "visible": false
+  },
+  {
+    "label": {
+      "de": "Impressum",
+      "en": "Legal Note"
+    },
+    "url": "legal",
+    "visible": false
+  },
+  {
+    "label": {
+      "de": "Datenschutz",
+      "en": "Data policy"
+    },
+    "url": "datapolicy",
+    "visible": false
+  },
   { 
     "label": {
       "de": "Veranstaltungen",

@@ -4,10 +4,15 @@
 @import 'includes/definitions';
 @import 'includes/fonts';
 
+html, body{
+  min-height: 100vh;
+}
+
 /*----- Navigation -----*/
 
 .off-canvas{
   font-family: "IBM Plex Sans", sans-serif;
+  min-height:100vh;
 
   &>.btn.btn-primary {
     background: $green;
@@ -103,6 +108,7 @@ nav>.nav>li>a{
 
 .off-canvas-sidebar>#language{
   flex-grow: 1;
+  padding-bottom:30px;
   a {
     color: $darkgrey;
     text-decoration: none;

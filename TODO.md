@@ -1,7 +1,3 @@
-- privacy
-- legal
-- contact
-
 - join us
 
 - translate event overview
