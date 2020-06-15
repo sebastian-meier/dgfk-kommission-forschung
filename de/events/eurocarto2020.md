@@ -18,7 +18,7 @@ Die Digitalisierung der Kartographie hat einen grundlegenden Paradigmenwechsel a
 <br /><small>Wir vertreten eine offene Interpretation des Begriffes Nachwuchswissenschaftler\*in. Für uns fallen alle Personen darunter, die sich selber davon angesprochen fühlen: z.B. Student\*innen, Doktorand\*innen, Post-Doktorand\*innen, etc. Das eigentliche Alter ist nicht ausschlaggebend.</small>
 
 ### Zeit und Ort
-*19.09.2020 – Virtuell*<br />
+*20.-22.09.2020 (Genauer Zeitpunkt wird in Kürze veröffentlicht) – Virtuell*<br />
 Der Nachwuchswissenschaftler*innen Workshop findet im Rahmen der EuroCarto statt (20-22.09.2020), in Kooperation mit den Workshops der ICA Kommissionen.
 
 ### Corona
