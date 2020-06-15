@@ -4,7 +4,7 @@ title: "Nachwuchswissenschaftlerworkshop:<br >Service-orientierte Kartographie"
 shortTitle: "Nachwuchs-Workshop 2020"
 trans: false
 lang: de
-subtitle: 19.09.2020 - Virtuell
+subtitle: 20.-22.09.2020 - Virtuell
 parent: Veranstaltungen
 redirect_from:
   - "/eurocarto/index.html"
