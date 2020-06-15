@@ -12,8 +12,8 @@ permalink: pretty
 sass:
     sass_dir: ./css
 
-# host: https://visualisierung.dgfk.net
-# url: https://visualisierung.dgfk.net
+host: https://visualisierung.dgfk.net
+url: https://visualisierung.dgfk.net
 
 defaults:
   -
