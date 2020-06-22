@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Nachwuchswissenschaftlerworkshop:<br >Service-orientierte Kartographie"
+title: "Nachwuchswissenschaftler*innen-Workshop:<br >Service-orientierte Kartographie"
 shortTitle: "Nachwuchs-Workshop 2020"
+description: "20.-22.09, virtuell – Diskutiert mit Expert*innen und anderen Nachwuschwissenschaftler*innen eure Forschungsarbeit."
+socialMedia: "/images/social_media-eurocarto2020.jpg"
 trans: false
 lang: de
 subtitle: 20.-22.09.2020 - Virtuell
@@ -38,6 +40,7 @@ Die Teilnahme am Workshop ist kostenlos.
 - Dr. Sebastian Meier, HafenCity Universtiät Hamburg
 
 ### Teilnehmende Expert*innen
+- Anita Graser, Austrian Institute of Technology
 - Dipl.-Ing. Dr. Markus Jobst, Technische Universität Wien
 - Prof. Dr. Jochen Schiewe, HafenCity Universität Hamburg
 
