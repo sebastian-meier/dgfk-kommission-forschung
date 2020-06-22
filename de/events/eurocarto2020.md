@@ -2,7 +2,7 @@
 layout: page
 title: "Nachwuchswissenschaftler*innen-Workshop: Service-orientierte Kartographie"
 shortTitle: "Nachwuchs-Workshop 2020"
-description: "20.-22.09, virtuell – Diskutiert mit Expert*innen und anderen Nachwuschwissenschaftler*innen eure Forschungsarbeit."
+description: "20.-22.09, virtuell – Diskutiert mit Expert*innen und anderen Nachwuchswissenschaftler*innen eure Forschungsarbeit."
 socialMedia: "/images/social_media-eurocarto2020.jpg"
 trans: false
 lang: de
