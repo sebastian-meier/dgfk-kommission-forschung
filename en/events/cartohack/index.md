@@ -18,7 +18,7 @@ Soon more...
 {% assign current_events = events | where_exp:"event", "event.date >= today" %}
 {% for event in current_events %}
   <li>
-    CartoHack #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} {{ event.time }}<br />
+    CartoHack #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} / {{ event.time }}<br />
     <strong>{{ event.topic }}</strong>
     {{ event.speaker }}
     {% if event.video_url %}<br />
@@ -34,6 +34,8 @@ Soon more...
   <li>No upcoming events at the moment.</li>
 {% endif %}
 </ul>
+
+{% assign events = events | reverse %}
 
 ### Event Archive
 <ul class="eventlist">
