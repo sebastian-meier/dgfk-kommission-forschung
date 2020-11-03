@@ -9,6 +9,8 @@ redirect_from:
   - "/en/events/cartohack/02-qgis"
 ---
 
+19.11.2020, 18 Uhr <a href="https://hcu-hamburg.zoom.us/j/81582572692">Zoom, Passwort:cartohack</a>
+
 ![CartoHack #02](/images/cartohack/02-qgis.jpg)
 
 In der digitalen Kartographie sind regelbasierte Darstellung mittlerweile der Standard. Anhand von Attributen, geometrischen Eigenschaft und Maßstab die Software anhand der Regeln ob und wie ein Objekt visualisiert wird.

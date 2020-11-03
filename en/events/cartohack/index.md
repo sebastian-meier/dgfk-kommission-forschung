@@ -14,11 +14,11 @@ Soon more...
 <ul class="eventlist">
 {% assign event_count = 0 %}
 {% assign today = "now" | date: "%Y-%m-%d" %}
-{% assign events = site.data.cartohack | sort_natural: "date" %}
+{% assign events = site.data.cartohack | sort_natural: "date" | reverse %}
 {% assign current_events = events | where_exp:"event", "event.date >= today" %}
 {% for event in current_events %}
   <li>
-    CartoHack #{{event.num}} - {{event.date | date: "%d.%m.%Y"}}<br />
+    CartoHack #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} {{ event.time }}<br />
     <strong>{{ event.topic }}</strong>
     {{ event.speaker }}
     {% if event.video_url %}<br />
