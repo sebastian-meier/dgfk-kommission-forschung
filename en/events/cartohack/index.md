@@ -14,7 +14,7 @@ Soon more...
 <ul class="eventlist">
 {% assign event_count = 0 %}
 {% assign today = "now" | date: "%Y-%m-%d" %}
-{% assign events = site.data.cartohack | sort: "date" | reverse %}
+{% assign events = site.data.cartohack | sort: "date" %}
 {% assign current_events = events | where_exp:"event", "event.date >= today" %}
 {% for event in current_events %}
   <li>
