@@ -37,8 +37,19 @@
       "en": "Events"
     },
     "url": "events",
-    "visible": true
+    "visible": true,
+    "sub": [
+      {
+        "label": {
+          "de": "CartoHack",
+          "en": "CartoHack"
+        },
+        "url": "events/cartohack",
+        "visible": false
+      }
+    ]
   },
+
   { 
     "label": {
       "de": "Forschung",
