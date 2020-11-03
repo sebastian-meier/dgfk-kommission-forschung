@@ -45,7 +45,7 @@
           "en": "CartoHack"
         },
         "url": "events/cartohack",
-        "visible": false
+        "visible": true
       }
     ]
   },
