@@ -9,8 +9,8 @@ redirect_from:
   - "/en/events/cartohack/02-qgis"
 ---
 
-Mathias Gröbe
-<strong>19.11.2020, 18 Uhr</strong>
+Mathias Gröbe<br />
+<strong>19.11.2020, 18 Uhr</strong><br />
 <a href="https://hcu-hamburg.zoom.us/j/81582572692">Zoom, Passwort:cartohack</a>
 
 ![CartoHack #02](/images/cartohack/02-qgis.jpg)

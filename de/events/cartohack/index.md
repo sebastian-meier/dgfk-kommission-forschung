@@ -7,8 +7,7 @@ parent: Veranstaltungen
 trans: true
 ---
 
-### Scope
-Bald mehr...
+CartoHack ist ein virtuelles Format, welches im Wechsel zum CartoCafé der DGfK organisiert wird. Mit dem Format CartoHack versuchen wir den Fokus auf praktische Tutorials, Demos und Anwendungsbeispiele zu legen. Wir freuen uns jeder Zeit über Einreichungen von Vortragsvorschlägen (<a href="mailto:sebastian.meier@hcu-hamburg.de">sebastian.meier@hcu-hamburg.de</a>).
 
 ### Nächste Veranstaltungen
 <ul class="eventlist">
@@ -52,3 +51,11 @@ Bald mehr...
   </li>
 {% endfor %}
 </ul>
+
+## Organisator*innen
+
+- __<a href="https://tu-dresden.de/bu/umwelt/geo/ifk/das-institut/beschaeftigte/dirk-burghardt">Dirk Burghardt</a>__<br />Technische Universität Dresden
+- __<a href="https://tu-dresden.de/bu/umwelt/geo/ifk/das-institut/beschaeftigte/mathias-groebe">Mathias Gröbe</a>__<br />Technische Universität Dresden
+- __<a href="">Johannes Kröger</a>__<br />
+- __<a href="">Franziska Martin</a>__<br />
+- __<a href="https://www.sebastianmeier.eu">Sebastian Meier</a>__<br />HafenCity Universität Hamburg
