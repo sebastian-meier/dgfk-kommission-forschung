@@ -52,7 +52,7 @@ CartoHack is a virtual format, which runs alternating to the DGfK's CartoCafé. 
 {% endfor %}
 </ul>
 
-## Organizers
+### Organizers
 
 - __<a href="https://tu-dresden.de/bu/umwelt/geo/ifk/das-institut/beschaeftigte/dirk-burghardt">Dirk Burghardt</a>__<br />Technical University Dresden
 - __<a href="https://tu-dresden.de/bu/umwelt/geo/ifk/das-institut/beschaeftigte/mathias-groebe">Mathias Gröbe</a>__<br />Technical University Dresden
