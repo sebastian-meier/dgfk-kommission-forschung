@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: de
-title: "CartoHack #06 - Hands-on introduction to the OpenRouteService (english)"
+title: "CartoHack #06 - Praxisbezogene Einführung in die OpenRouteService-API"
 shortTitle: "CartoHack #06" 
 parent: CartoHack
 trans: true
@@ -11,11 +11,11 @@ redirect_from:
 
 
 
-<a href="https://openrouteservice.org">OpenRouteService</a><br />
+<a href="https://openrouteservice.org">Amandus Butzer und Jakob Schnell (OpenRouteService)</a><br />
 <strong>15.04.2021, 18:00 Uhr</strong><br />
 <a href="https://hcu-hamburg.zoom.us/j/83633979714">Virtuell via Zoom (Passwort: cartohack)</a>
 
 ![CartoHack #036](/images/cartohack/06-openrouteservice.jpg)
 
-The team will introduce the audience to the open source routing system OpenRouteService (ORS). How to explore the API through Playground. And in a hands-on session the team will show us how to use the API in a basic script, thereby, giving a good starting point for your first ORS project.
+Schnell rausfinden, welche neue Wohnung die beste Infrastruktur in Laufreichweite hat, was die optimale Route für den nächsten Städtetrip ist oder einfach nur den nächsten Rad-Ausflug planen - In diesem CartoHack führen wir in die Nutzung der ORS-API ein und geben interaktive Beispiele, wie diese und ähnliche Projekte einfach von zuhause umgesetzt werden können.
 
