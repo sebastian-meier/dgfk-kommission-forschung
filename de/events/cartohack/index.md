@@ -9,6 +9,9 @@ trans: true
 
 CartoHack ist ein virtuelles Format, welches im Wechsel zum CartoCafé der DGfK organisiert wird. Mit dem Format CartoHack versuchen wir den Fokus auf praktische Tutorials, Demos und Anwendungsbeispiele zu legen. Wir freuen uns jeder Zeit über Einreichungen von Vortragsvorschlägen (<a href="mailto:sebastian.meier@hcu-hamburg.de">sebastian.meier@hcu-hamburg.de</a>).
 
+### Newsletter
+Immer auf dem Laufenden über aktuelle, öffentliche Veranstaltungen der DGfK: <a href="https://newsletter.dgfk.net">Hier zum Newsletter anmelden.</a>
+
 ### Nächste Veranstaltungen
 <ul class="eventlist">
 {% assign event_count = 0 %}
