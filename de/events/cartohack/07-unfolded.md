@@ -17,5 +17,5 @@ redirect_from:
 
 ![CartoHack #07](/images/cartohack/07-unfolded.png)
 
-Im Mai wird Ilya Boyandin uns eine Hands-on Einführung in das Tool [Unfolded](https://www.unfolded.ai/) geben, mit dem man große Mengen räumlicher Daten direkt im Browser analysieren und visualisieren kann.
+Moderne WebGL-basierte Lösungen ermöglichen es seit einiger Zeit endlich auch sehr große Mengen räumlicher Daten performant und ansehnlich in Web-Kartenanwendungen zu visualisieren und analysieren. Ilya Boyandin wird uns in einer Hands-on Einführung zeigen, was [deck.gl](https://deck.gl/), [kepler.gl](https://kepler.gl/) und [Unfolded](https://www.unfolded.ai/) leisten können und auch einen Einblick in sein speziell auf aggregierte Bewegungsdaten optimiertes Projekt [flowmap.blue](https://flowmap.blue/) geben.
 
