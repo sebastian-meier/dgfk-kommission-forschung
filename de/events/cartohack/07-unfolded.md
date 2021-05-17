@@ -17,5 +17,5 @@ redirect_from:
 
 ![CartoHack #07](/images/cartohack/07-unfolded.png)
 
-Moderne WebGL-basierte Lösungen ermöglichen es seit einiger Zeit endlich auch sehr große Mengen räumlicher Daten performant und ansehnlich in Web-Kartenanwendungen zu visualisieren und analysieren. Ilya Boyandin wird uns in einer Hands-on Einführung zeigen, was [deck.gl](https://deck.gl/), [kepler.gl](https://kepler.gl/) und [Unfolded](https://www.unfolded.ai/) leisten können und auch einen Einblick in sein speziell auf aggregierte Bewegungsdaten optimiertes Projekt [flowmap.blue](https://flowmap.blue/) geben.
+Moderne WebGL-basierte Lösungen ermöglichen es seit einiger Zeit auch größere Datenmengen performant und ansehnlich in Web-Kartenanwendungen darzustellen. Ilya Boyandin von [Unfolded.ai](https://www.unfolded.ai/) wird zeigen, was [Deck.gl](https://deck.gl/), [Kepler.gl](https://kepler.gl/) und [Unfolded Studio](https://www.unfolded.ai/studio) so können und auch einen Einblick in sein speziell für aggregierte Bewegungsdaten entwickeltes Tool [Flowmap.blue](https://flowmap.blue/) geben.
 
