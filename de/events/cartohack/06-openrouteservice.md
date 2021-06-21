@@ -19,5 +19,5 @@ redirect_from:
 
 Schnell rausfinden, welche neue Wohnung die beste Infrastruktur in Laufreichweite hat, was die optimale Route für den nächsten Städtetrip ist oder einfach nur den nächsten Rad-Ausflug planen - In diesem CartoHack führen wir in die Nutzung der ORS-API ein und geben interaktive Beispiele, wie diese und ähnliche Projekte einfach von zuhause umgesetzt werden können.
 
-<iframe style="width:100%; height:auto;" src="https://drive.google.com/file/d/1xOoLyTYt79xSRKa2b6HzTSyngt11Z2eM/preview" width="1920" height="1080"></iframe>
+<iframe style="width:100%; min-height:480px; max-height:50%; height:auto;" src="https://drive.google.com/file/d/1xOoLyTYt79xSRKa2b6HzTSyngt11Z2eM/preview" width="1920" height="1080"></iframe>
 

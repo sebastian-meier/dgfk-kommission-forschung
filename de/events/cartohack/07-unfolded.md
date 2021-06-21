@@ -19,4 +19,4 @@ redirect_from:
 
 Moderne WebGL-basierte Lösungen ermöglichen es seit einiger Zeit auch größere Datenmengen performant und ansehnlich in Web-Kartenanwendungen darzustellen. Ilya Boyandin von [Unfolded.ai](https://www.unfolded.ai/) wird zeigen, was [Deck.gl](https://deck.gl/), [Kepler.gl](https://kepler.gl/) und [Unfolded Studio](https://www.unfolded.ai/studio) so können und auch einen Einblick in sein speziell für aggregierte Bewegungsdaten entwickeltes Tool [Flowmap.blue](https://flowmap.blue/) geben.
 
-<iframe style="width:100%; height:auto;" src="https://drive.google.com/file/d/1jeuCsF8dkGh476PbKQr_4Pdf7RO3eyw2/preview" width="1920" height="1080"></iframe>
+<iframe style="width:100%; min-height:480px; max-height:50%; height:auto;" src="https://drive.google.com/file/d/1jeuCsF8dkGh476PbKQr_4Pdf7RO3eyw2/preview" width="1920" height="1080"></iframe>
