@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-Jonas Bostelmann
+<a href="https://twitter.com/jonasbostelmann">Jonas Bostelmann</a><br />
 <strong>16.12.2021, 18:00 Uhr</strong><br />
 <a href="https://fh-potsdam.zoom.us/j/62350861286?pwd=aENwajQwQTRvL3MvRk92ZFN2UFEwdz09">Virtuell via Zoom (Passwort: 11128345)</a>
 
