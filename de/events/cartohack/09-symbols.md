@@ -20,7 +20,7 @@ redirect_from:
 Im ersten CartoHack 2022 tauchen Mathias und Sebastian in die Möglichkeiten der Visualisierung von räumlichen Informationen in QGIS ab. Diesmal geht es weniger um ganzheitliche Kartengestaltung, sondern um Detail-Kartographie. Der Frage wie Karten nicht nur kartographisch korrekt sondern auch ästhetisch hochwertig gestaltet werden können. Mathias wird mit einem Einstieg in komplexere Signaturgestaltung beginnen. Sebastian wird dann zeigen wie man die neue Darstellungsform der Geometrie Generatoren nutzen kann, um komplexe Symbole generativ mit Code zu erstellen. Wie immer Hands-on, live in QGIS.
 
 <video width="1920" height="1080" style="max-width:100%; height: auto; display:block; margin: 0 auto;" controls>
-  <source src="https://fhpcloud.fh-potsdam.de/s/Kp369aJqkDLWmGk" type="video/mp4">
+  <source src="https://fhpcloud.fh-potsdam.de/s/Kp369aJqkDLWmGk/download" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
