@@ -21,11 +21,11 @@ To participate, send a (maximum) one-page description of your talk. Your submiss
 Please send you proposal to [sebastian.meier@fh-potsdam.de](mailto:sebastian.meier@fh-potsdam.de). **Deadline: 15.08.2022**.
 
 ### Discussion on career paths
-Besides the presentations and discussions by young scientists, we want to try something new this year. We want to discuss potential career paths for cartographers. There are a lot of opportunities out there for cartographers (industry, non-profit, academia, ...). And a career path does not always need to straight. Sebastian Meier will start with an input on cartographic working fields (as a non-cartographer) and then open the discussion. Anybody else who also wants to share similar insights is highly welcome, to also present something in this part of the workshop.
+Besides the presentations and discussions by young scientists, we want to try something new this year. We want to discuss potential career paths for cartographers. There are a lot of opportunities out there for cartographers (industry, non-profit, academia, ...). And a career path does not always need to be straight. Sebastian Meier will start with an input on cartographic working fields (as a non-cartographer) and then open the discussion. Anybody else who also wants to share similar insights is highly welcome, to also present something in this part of the workshop.
 
 ### Time and Location
 *19.-21.09.2022 (Exact day and time will be published soon) – Vienna<br />
-The "Next Generation Cartographers" workshop will be part of the EuroCarto (19-21.09.2022), in cooperations with other ICA workshops.
+The "Next Generation Cartographers" workshop will be part of the EuroCarto (19-21.09.2022), in cooperation with other ICA workshops.
 
 ### Hybrid?
 Currently we are planning an offline-only event. Why? Providing a safe space for discussions is very important to us. With streamed events it is hard to control or be aware of who is participating. And things can easily be recorded.
@@ -39,13 +39,13 @@ Everybody is welcome to join the discussion. In order to help us better plan the
 ### Costs
 The workshop is part of EUROCARTO, therefore, free for all conference participants. If you are a local student, and you can only participate in the workshop, please get in touch.
 
-### Workshop Kommission
+### Workshop Commission
 - Prof. Dr. Sebastian Meier, Potsdam University of Applied Sciences
-- Edyta, Munich University
-- Florian, Vienna University
+- Edyta Paulina Bogucka, Technical University Munich
+- Florian Ledermann, Vienna University
 
 ### Code of Conduct
-This workshop is specifically for young scientists. Young scientists with diverse backgrounds, in different stages of their careers and different perspectives. The workshop should provide a safe space for knowledge exchange, discussions and learning from one another. We wish for a respectful and thoughtful interactions throughout the event.
+This workshop is specifically for young scientists. Young scientists with diverse backgrounds, in different stages of their careers and different perspectives. The workshop should provide a safe space for knowledge exchange, discussions and learning from one another. We wish for respectful and thoughtful interactions throughout the event.
 
 ### Kontakt
 If you have any questions, please get in touch: [sebastian.meier@fh-potsdam.de](mailto:sebastian.meier@fh-potsdam.de).
