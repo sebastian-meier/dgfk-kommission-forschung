@@ -25,7 +25,7 @@ Besides the presentations and discussions by young scientists, we want to try so
 
 ### Time and Location
 *19.-21.09.2022 (Exact day and time will be published soon) – Vienna<br />
-The "Next Generation Cartographers" workshop will be part of the EuroCarto (19-21.09.2022), in cooperation with other ICA workshops.
+The "Next Generation Cartographers" workshop will be part of the [EuroCarto](https://eurocarto2022.org/) (19-21.09.2022), in cooperation with other ICA workshops.
 
 ### Hybrid?
 Currently we are planning an offline-only event. Why? Providing a safe space for discussions is very important to us. With streamed events it is hard to control or be aware of who is participating. And things can easily be recorded.
@@ -37,7 +37,7 @@ We will also organise a social event after the workshop, to continue the convers
 Everybody is welcome to join the discussion. In order to help us better plan the event (room size, etc.), please send us a quick email and let us know if you are planning to participate: [sebastian.meier@fh-potsdam.de](mailto:sebastian.meier@fh-potsdam.de).
 
 ### Costs
-The workshop is part of EUROCARTO, therefore, free for all conference participants. If you are a local student, and you can only participate in the workshop, please get in touch.
+The workshop is part of [EuroCarto](https://eurocarto2022.org/), therefore, free for all conference participants. If you are a local student, and you can only participate in the workshop, please get in touch.
 
 ### Workshop Commission
 - Prof. Dr. Sebastian Meier, Potsdam University of Applied Sciences
