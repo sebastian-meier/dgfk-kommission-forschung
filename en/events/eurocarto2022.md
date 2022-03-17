@@ -40,12 +40,12 @@ Everybody is welcome to join the discussion. In order to help us better plan the
 The workshop is part of [EuroCarto](https://eurocarto2022.org/), therefore, free for all conference participants. If you are a local student, and you can only participate in the workshop, please get in touch.
 
 ### Workshop Commission
-- Prof. Dr. Sebastian Meier, Potsdam University of Applied Sciences
+- Sebastian Meier, Potsdam University of Applied Sciences
 - Edyta Paulina Bogucka, Technical University Munich
 - Florian Ledermann, Technical University Vienna
 
 ### Code of Conduct
 This workshop is specifically for young scientists. Young scientists with diverse backgrounds, in different stages of their careers and different perspectives. The workshop should provide a safe space for knowledge exchange, discussions and learning from one another. We wish for respectful and thoughtful interactions throughout the event.
 
-### Kontakt
+### Contact
 If you have any questions, please get in touch: [sebastian.meier@fh-potsdam.de](mailto:sebastian.meier@fh-potsdam.de).
