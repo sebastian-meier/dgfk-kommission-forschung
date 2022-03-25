@@ -34,7 +34,7 @@ Currently we are planning an offline-only event. Why? Providing a safe space for
 ### Social Event
 Directly after the workshop, the official conference dinner is to be scheduled. We hope to continue our conversations there in an even less formal setting. And invite everyone to join us there.
 
-### Worksho output
+### Workshop output
 Beyond the discussions and exchange throughout the workshop, we would like to document the workshop and the perspectives of "next generation cartographers". We, therefore, plan to work on a joint publication after the workshop. Everyone is welcome to join us in this endeavour. 
 
 ### Participation without a talk
