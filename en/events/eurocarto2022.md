@@ -25,7 +25,7 @@ We also strongly encourage everyone to also submit to the [EuroCarto Call](https
 Besides the presentations and discussions by young scientists, we want to try something new this year. We want to discuss potential career paths for cartographers. There are a lot of opportunities out there for cartographers (industry, non-profit, academia, ...). And a career path does not always need to be straight. Sebastian Meier will start with an input on cartographic working fields (as a non-cartographer) and then open the discussion. Anybody else who also wants to share similar insights is highly welcome, to also present something in this part of the workshop.
 
 ### Time and Location
-*22.09.2022 – Vienna<br />
+<strong>22.09.2022 – Vienna</strong><br />
 The "Next Generation Cartographers" workshop will be part of the [EuroCarto](https://eurocarto2022.org/) (19-21.09.2022), in cooperation with other ICA workshops.
 
 ### Hybrid?
