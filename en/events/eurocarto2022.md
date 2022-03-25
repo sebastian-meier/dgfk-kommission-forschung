@@ -6,7 +6,7 @@ description: "19.-21.09, Vienna – Discuss your research with fellow researcher
 socialMedia: "/images/social_media-workshop-euro22.png"
 trans: false
 lang: en
-subtitle: 22.09.2020 - Vienna
+subtitle: 22.09.2022 - Vienna
 parent: Events
 ---
 
