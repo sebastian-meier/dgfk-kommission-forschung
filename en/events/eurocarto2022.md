@@ -50,7 +50,7 @@ The workshop is part of [EuroCarto](https://eurocarto2022.org/), therefore, free
 - Robert Roth, University of Wisconsin-Madison
 - Katarzyna Słomska-Przech, Tadeusz Manteuffel Institute of History, Polish Academy of Sciences
 
-The workshop is supported by the ICA's [UX Commission](https://use.icaci.org/) and the DGfK's Reserch Commission.
+The workshop is supported by the ICA's [UX Commission](https://use.icaci.org/) and the DGfK's Research Commission.
 
 ### Code of Conduct
 This workshop is specifically for young scientists. Young scientists with diverse backgrounds, in different stages of their careers and different perspectives. The workshop should provide a safe space for knowledge exchange, discussions and learning from one another. We wish for respectful and thoughtful interactions throughout the event.
