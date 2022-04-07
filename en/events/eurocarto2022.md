@@ -18,7 +18,11 @@ Are you working on your thesis, dissertation or another research project? Or did
 ### Call for Presentations
 We are also open in regards to what you would like to present. We ask you, to limit your presentation time to 10-15 minutes. Because we are particularly interested in a conversation. We would like you to finish your presentations with a question, proposal or thought, as a starting point for a discussion.
 To participate, send a (maximum) one-page description of your talk. Your submission should include: your **name**, affiliation is optional, a **title** and a 200 character **abstract**, which we can publish as part of the workshop program.
-Please send your proposal to [sebastian.meier@fh-potsdam.de](mailto:sebastian.meier@fh-potsdam.de). **Deadline: 15.08.2022**.
+
+Please send your proposal to [sebastian.meier@fh-potsdam.de](mailto:sebastian.meier@fh-potsdam.de). 
+
+**Deadline: 15.08.2022**.
+
 We also strongly encourage everyone to also submit to the [EuroCarto Call](https://eurocarto2022.org/call-for-papers/) (Deadline 30.04.2022).
 
 ### Discussion on career paths
