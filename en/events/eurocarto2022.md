@@ -45,7 +45,7 @@ Related to the [Commission on Map Design](http://mapdesign.icaci.org/)
 ##### [Mapping the historical landscape of southern Transylvania and its German-speaking minority in the 18th and 19th centuries.](/docs/eurocarto22/eurocarto22_ngc_nacu.pdf)
 **Andrei 	Nacu**, Institute of Social Sciences and Humanities in Sibiu (Hermannstadt)
 
-##### [Trustworthiness of maps in digital media](/docs/eurocarto22/eurocarto22_ngc_ignateva.pdf)
+##### [Rethinking national atlas: finding tools to create a decolonial atlas](/docs/eurocarto22/eurocarto22_ngc_ignateva.pdf)
 **Olesia	Ignateva**, Technische Universität Wien
 
 
