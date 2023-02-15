@@ -12,7 +12,7 @@ redirect_from:
 <a href="https://norden.social/@cartocalypse">Johannes Kröger</a><br />
 
 <strong>16.02.2023, 18:00</strong><br />
-<a href="TODO">Virtual via Zoom (Password: TODO)</a>
+<a href="https://fh-potsdam.zoom.us/j/65857864771?pwd=dUFHOHFpbkQ5Ri9rOWJWL0xjcUFadz09">Virtual via Zoom (Password: 18662686)</a>
 
 ![CartoHack #14](/images/cartohack/14-osm-extract.png)
 
