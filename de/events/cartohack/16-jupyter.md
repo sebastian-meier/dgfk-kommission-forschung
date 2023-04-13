@@ -9,7 +9,8 @@ redirect_from:
   - "/en/events/cartohack/16-jupyter"
 ---
 
-Alexander Dunkel, TU Dresden
+Alexander Dunkel, TU Dresden<br />
+<a href="https://tu-dresden.zoom.us/j/63865061208?pwd=N1FiL3ZuQ3VyR1p5dUZ1VWs4WlcxUT09">Zoom, Passwort:*9@jyewR</a>
 
 ![CartoHack #16](/images/cartohack/15-cartohack.webp)
 
