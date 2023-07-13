@@ -9,6 +9,7 @@ redirect_from:
   - "/de/events/cartohack/18-reactive"
 ---
 
+Thursday, July 20th, 6pm CEST<br />
 Sebastian Meier, Potsdam University of Applied Sciences (FHP)<br />
 
 <a href="https://fh-potsdam.zoom.us/j/61005142205?pwd=QWQzSGdPNHNoRGVET2VDVlJhL25lZz09 ">Zoom, Passwort:60539417</a>
