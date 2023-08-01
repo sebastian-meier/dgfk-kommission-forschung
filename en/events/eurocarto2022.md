@@ -11,6 +11,18 @@ parent: Events
 redirect_from:
   - "/de/events/eurocarto2022"
 ---
+<style>
+  #nextgen{
+  font-weight: 700;
+  margin-top: 2em;
+  background-image: linear-gradient( 45deg, rgb(0, 100, 255), rgb(0, 255, 157) 60% );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.25em;
+  }
+</style>
+<a href="https://next-generation-cartographers.github.io/" id="nextgen">Visit the Next Generation Cartographers' group website &raquo;</a>
 
 *There is no strict limit on who we perceive as a young cartographer. If you perceive yourself as a next generation cartographer, you are welcome to join us!*
 
