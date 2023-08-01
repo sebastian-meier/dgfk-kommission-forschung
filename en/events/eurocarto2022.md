@@ -22,7 +22,7 @@ redirect_from:
   line-height: 1.25em;
   }
 </style>
-<a href="https://next-generation-cartographers.github.io/" id="nextgen">Visit the Next Generation Cartographers' group website &raquo;</a>
+<a href="https://next-generation-cartographers.github.io/" id="nextgen">Visit the Next Generation Cartographers' website &raquo;</a>
 
 *There is no strict limit on who we perceive as a young cartographer. If you perceive yourself as a next generation cartographer, you are welcome to join us!*
 
