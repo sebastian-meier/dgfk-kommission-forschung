@@ -1,13 +1,13 @@
 ---
 layout: page
 lang: de
-title: CartoHack
-shortTitle: CartoHack
+title: CartoEdu
+shortTitle: CartoEdu
 parent: Veranstaltungen
 trans: true
 ---
 
-CartoHack ist ein virtuelles Format, welches im Wechsel zum CartoCafé der DGfK organisiert wird. Mit dem Format CartoHack versuchen wir den Fokus auf praktische Tutorials, Demos und Anwendungsbeispiele zu legen. Wir freuen uns jeder Zeit über Einreichungen von Vortragsvorschlägen (<a href="mailto:sebastian.meier@fh-potsdam.de">sebastian.meier@fh-potsdam.de</a>).
+CartoEdu ist ein virtuelles Format, welches im Wechsel zum CartoCafé der DGfK organisiert wird. Mit dem Format CartoHack versuchen wir den Fokus auf praktische Tutorials, Demos und Anwendungsbeispiele zu legen. Wir freuen uns jeder Zeit über Einreichungen von Vortragsvorschlägen (<a href="mailto:sebastian.meier@fh-potsdam.de">sebastian.meier@fh-potsdam.de</a>).
 
 ### Newsletter
 Immer auf dem Laufenden über aktuelle, öffentliche Veranstaltungen der DGfK: <a href="https://newsletter.dgfk.net">Hier zum Newsletter anmelden.</a>
@@ -16,11 +16,11 @@ Immer auf dem Laufenden über aktuelle, öffentliche Veranstaltungen der DGfK: <
 <ul class="eventlist">
 {% assign event_count = 0 %}
 {% assign today = "now" | date: "%Y-%m-%d" %}
-{% assign events = site.data.cartohack | sort: "date" %}
+{% assign events = site.data.cartoedu | sort: "date" %}
 {% assign current_events = events | where_exp:"event", "event.date >= today" %}
 {% for event in current_events %}
   <li>
-    CartoHack #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} / {{ event.time }}<br />
+    CartoEdu #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} / {{ event.time }}<br />
     <strong>{{ event.topic }}</strong>
     {{ event.speaker }}
     {% if event.video_url %}<br />
@@ -45,7 +45,7 @@ Immer auf dem Laufenden über aktuelle, öffentliche Veranstaltungen der DGfK: <
 {% assign past_events = events | where_exp:"event", "event.date < today" %}
 {% for event in past_events %}
   <li>
-    CartoHack #{{event.num}} - {{event.date | date: "%d.%m.%Y"}}<br />
+    CartoEdu #{{event.num}} - {{event.date | date: "%d.%m.%Y"}}<br />
     <strong>{{ event.topic }}</strong>
     {{ event.speaker }}
     {% if event.url %}<br />
@@ -55,10 +55,6 @@ Immer auf dem Laufenden über aktuelle, öffentliche Veranstaltungen der DGfK: <
 {% endfor %}
 </ul>
 
-### Organisator*innen
+### Ansprechpartner
 
-- __<a href="https://tu-dresden.de/bu/umwelt/geo/ifk/das-institut/beschaeftigte/dirk-burghardt">Dirk Burghardt</a>__<br />Technische Universität Dresden
-- __<a href="https://tu-dresden.de/bu/umwelt/geo/ifk/das-institut/beschaeftigte/mathias-groebe">Mathias Gröbe</a>__<br />Technische Universität Dresden
-- __<a href="">Johannes Kröger</a>__<br />
-- __<a href="">Franziska Martin</a>__<br />
-- __<a href="https://www.sebastianmeier.eu">Sebastian Meier</a>__<br />Fachhochschule Potsdam
+- __Jochen Schiewe__<br />HafenCity Universität Hamburg

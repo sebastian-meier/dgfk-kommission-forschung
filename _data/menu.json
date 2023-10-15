@@ -41,6 +41,14 @@
     "sub": [
       {
         "label": {
+          "de": "CartoEdu",
+          "en": "CartoEdu"
+        },
+        "url": "events/cartoedu",
+        "visible": true
+      },
+      {
+        "label": {
           "de": "CartoHack",
           "en": "CartoHack"
         },
