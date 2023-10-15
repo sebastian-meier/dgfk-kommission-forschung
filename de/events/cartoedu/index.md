@@ -7,7 +7,7 @@ parent: Veranstaltungen
 trans: true
 ---
 
-CartoEdu ist ein virtuelles Format, welches im Wechsel zum CartoHack und CartoCafe der DGfK organisiert wird. Mit dem Format CartoEdu wollen wir die Lehr- und Ausbildungsstätten der kartografischen Berufe in den Mittelpunkt stellen. Das Format ist sowohl für Auszubildende und Studierende gedacht, als auch die Lehrenden und Ausbilder*innen. Wir freuen uns jeder Zeit über Einreichungen von Vortragsvorschlägen (<a href="mailto:jochen.schiewe@hcu-hamburg.de">jochen.schiewe@hcu-hamburg.de</a>).
+CartoEdu ist ein virtuelles Format, welches im Wechsel zum CartoHack und CartoCafe der DGfK organisiert wird. Mit dem Format CartoEdu wollen wir die Lehr- und Ausbildungsstätten der kartografischen Berufe in den Mittelpunkt stellen. Das Format ist sowohl für Auszubildende und Studierende gedacht, als auch für die Lehrenden und Ausbilder*innen. Wir freuen uns jeder Zeit über Einreichungen von Vortragsvorschlägen (<a href="mailto:jochen.schiewe@hcu-hamburg.de">jochen.schiewe@hcu-hamburg.de</a>).
 
 ### Newsletter
 Immer auf dem Laufenden über aktuelle, öffentliche Veranstaltungen der DGfK: <a href="https://newsletter.dgfk.net">Hier zum Newsletter anmelden.</a>
