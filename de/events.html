@@ -29,6 +29,58 @@ trans: true
 
 {% assign events = events | reverse %}
 
+{% assign cevent_count = 0 %}
+{% assign today = "now" | date: "%Y-%m-%d" %}
+{% assign cevents = site.data.cartohack | sort: "date" %}
+{% assign ccurrent_events = cevents | where_exp:"event", "event.date >= today" %}
+{% if ccurrent_events | size > 0 %}
+### Nächster CartoHack
+<ul class="eventlist">
+{% for event in ccurrent_events %}
+  {% if cevent_count == 0 %}
+  <li>
+    CartoHack #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} / {{ event.time }}<br />
+    <strong>{{ event.topic }}</strong>
+    {{ event.speaker }}
+    {% if event.video_url %}<br />
+    <a href="{{event.video_url}}" class="btn">Video-Link {% if event.video_pass %}(Passwort: {{ event.video_pass }}) {% endif %}&raquo;</a>
+    {% endif %}
+    {% if event.url %}<br />
+    <a href="{{event.url}}" class="btn">Mehr erfahren &raquo;</a>
+    {% endif %}
+  </li>
+  {% capture event_count %}{{ event_count | plus:1 }}{% endcapture %}
+  {% endif %}
+{% endfor %}
+</ul>
+{% endif %}
+
+{% assign cevent_count = 0 %}
+{% assign today = "now" | date: "%Y-%m-%d" %}
+{% assign cevents = site.data.cartoedu | sort: "date" %}
+{% assign ccurrent_events = cevents | where_exp:"event", "event.date >= today" %}
+{% if ccurrent_events | size > 0 %}
+### Nächster CartoEdu
+<ul class="eventlist">
+{% for event in ccurrent_events %}
+  {% if cevent_count == 0 %}
+  <li>
+    CartoEdu #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} / {{ event.time }}<br />
+    <strong>{{ event.topic }}</strong>
+    {{ event.speaker }}
+    {% if event.video_url %}<br />
+    <a href="{{event.video_url}}" class="btn">Video-Link {% if event.video_pass %}(Passwort: {{ event.video_pass }}) {% endif %}&raquo;</a>
+    {% endif %}
+    {% if event.url %}<br />
+    <a href="{{event.url}}" class="btn">Mehr erfahren &raquo;</a>
+    {% endif %}
+  </li>
+  {% capture event_count %}{{ event_count | plus:1 }}{% endcapture %}
+  {% endif %}
+{% endfor %}
+</ul>
+{% endif %}
+
 <h3>Veranstaltungsarchiv</h3>
 <ul class="eventlist">
 {% assign today = "now" | date: "%Y-%m-%d" %}
