@@ -34,7 +34,7 @@ trans: true
 {% assign cevents = site.data.cartohack | sort: "date" %}
 {% assign ccurrent_events = cevents | where_exp:"event", "event.date >= today" %}
 {% if ccurrent_events | size > 0 %}
-### Nächster CartoHack
+<h3>Nächster CartoHack</h3>
 <ul class="eventlist">
 {% for event in ccurrent_events %}
   {% if cevent_count == 0 %}
@@ -49,7 +49,7 @@ trans: true
     <a href="{{event.url}}" class="btn">Mehr erfahren &raquo;</a>
     {% endif %}
   </li>
-  {% capture event_count %}{{ event_count | plus:1 }}{% endcapture %}
+  {% capture cevent_count %}{{ cevent_count | plus:1 }}{% endcapture %}
   {% endif %}
 {% endfor %}
 </ul>
@@ -60,7 +60,7 @@ trans: true
 {% assign cevents = site.data.cartoedu | sort: "date" %}
 {% assign ccurrent_events = cevents | where_exp:"event", "event.date >= today" %}
 {% if ccurrent_events | size > 0 %}
-### Nächster CartoEdu
+<h3>Nächster CartoEdu</h3>
 <ul class="eventlist">
 {% for event in ccurrent_events %}
   {% if cevent_count == 0 %}
@@ -75,7 +75,7 @@ trans: true
     <a href="{{event.url}}" class="btn">Mehr erfahren &raquo;</a>
     {% endif %}
   </li>
-  {% capture event_count %}{{ event_count | plus:1 }}{% endcapture %}
+  {% capture cevent_count %}{{ cevent_count | plus:1 }}{% endcapture %}
   {% endif %}
 {% endfor %}
 </ul>
