@@ -11,11 +11,11 @@ trans: true
 <ul class="eventlist">
 {% assign event_count = 0 %}
 {% assign today = "now" | date: "%Y-%m-%d" %}
-{% assign events = site.data.events_en | sort: "date" %}
+{% assign events = site.data.events | sort_natural: "date" %}
 {% assign current_events = events | where_exp:"event", "event.date >= today" %}
 {% for event in current_events %}
   <li>
-    {{event.date | date: "%Y/%m/%d"}}, {{event.location}}, {{event.type}}<br />
+    {{event.date | date: "%d.%m.%Y"}}, {{event.location}}, {{event.type}}<br />
     <strong>{{ event.title }}</strong>
     {{ event.subtitle }}{% if event.subtitle %}<br />{% endif %}
     <a href="{{event.url}}" class="btn">Learn more &raquo;</a>
@@ -23,11 +23,67 @@ trans: true
   {% capture event_count %}{{ event_count | plus:1 }}{% endcapture %}
 {% endfor %}
 {% if event_count == 0 %}
-  <li>We are sorry, but there are no upcoming events.</li>
+  <li>No upcoming events at the moment.</li>
 {% endif %}
 </ul>
 
 {% assign events = events | reverse %}
+
+{% assign cevent_count = 0 %}
+{% assign today = "now" | date: "%Y-%m-%d" %}
+{% assign cevents = site.data.cartoedu | sort: "date" %}
+{% assign ccurrent_events = cevents | where_exp:"event", "event.date >= today" %}
+{% if ccurrent_events | size > 0 %}
+<h3>Next CartoEdu</h3>
+<ul class="eventlist">
+{% for event in ccurrent_events %}
+  {% if cevent_count == 0 %}
+  <li>
+    CartoEdu #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} / {{ event.time }}<br />
+    <strong>{{ event.topic }}</strong>
+    {{ event.speaker }}
+    {% if event.video_url %}<br />
+    <a href="{{event.video_url}}" class="btn">Video-Link {% if event.video_pass %}(Password: {{ event.video_pass }}) {% endif %}&raquo;</a>
+    {% endif %}
+    {% if event.url %}<br />
+    <a href="{{event.url}}" class="btn">Learn more &raquo;</a>
+    {% endif %}
+  </li>
+  {% capture cevent_count %}{{ cevent_count | plus:1 }}{% endcapture %}
+  {% endif %}
+{% endfor %}
+</ul>
+<a style="font-weight:bold; color:green;" href="/de/events/cartoedu/">All CartoEdu Events &raquo;</a>
+{% endif %}
+
+
+{% assign cevent_count = 0 %}
+{% assign today = "now" | date: "%Y-%m-%d" %}
+{% assign cevents = site.data.cartohack | sort: "date" %}
+{% assign ccurrent_events = cevents | where_exp:"event", "event.date >= today" %}
+{% if ccurrent_events | size > 0 %}
+<h3>Next CartoHack</h3>
+<ul class="eventlist">
+{% for event in ccurrent_events %}
+  {% if cevent_count == 0 %}
+  <li>
+    CartoHack #{{event.num}} - {{event.date | date: "%d.%m.%Y"}} / {{ event.time }}<br />
+    <strong>{{ event.topic }}</strong>
+    {{ event.speaker }}
+    {% if event.video_url %}<br />
+    <a href="{{event.video_url}}" class="btn">Video-Link {% if event.video_pass %}(Password: {{ event.video_pass }}) {% endif %}&raquo;</a>
+    {% endif %}
+    {% if event.url %}<br />
+    <a href="{{event.url}}" class="btn">Learn more &raquo;</a>
+    {% endif %}
+  </li>
+  {% capture cevent_count %}{{ cevent_count | plus:1 }}{% endcapture %}
+  {% endif %}
+{% endfor %}
+</ul>
+<a style="font-weight:bold; color:green;" href="/de/events/cartohack/">All CartoHack Events &raquo;</a>
+{% endif %}
+
 
 <h3>Event archive</h3>
 <ul class="eventlist">
@@ -35,7 +91,7 @@ trans: true
 {% assign past_events = events | where_exp:"event", "event.date < today" %}
 {% for event in past_events %}
   <li>
-    {{event.date | date: "%Y/%m/%d"}}, {{event.location}}, {{event.type}}<br />
+    {{event.date | date: "%d.%m.%Y"}}, {{event.location}}, {{event.type}}<br />
     <strong>{{ event.title }}</strong>
     {{ event.subtitle }}{% if event.subtitle %}<br />{% endif %}
     <a href="{{event.url}}" class="btn">Learn more &raquo;</a>
