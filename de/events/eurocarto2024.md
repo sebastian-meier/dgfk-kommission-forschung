@@ -2,11 +2,11 @@
 layout: page
 title: "Workshop: Kritische Kartographie"
 shortTitle: "Kritische Kartographie"
-description: "9.-11.09, Vienna – Discuss your research with fellow researchers."
+description: "08.09, Vienna – Discuss your research with fellow researchers."
 socialMedia: "/images/social_media-workshop-euro24.png"
 trans: false
 lang: de
-subtitle: 09.09.2025 - Vienna
+subtitle: 08.09.2025 - Vienna
 parent: Events
 ---
 
@@ -20,7 +20,7 @@ Diese und viele andere Fragen rufen nach interdisziplinärem Austausch. Daher la
 
 Der Workshop findet im Rahmen der [EuroCarto](https://eurocarto2024.org/) 2024 in Wien (Technische Universität) statt.
 
-**Datum: 9. September**
+**Datum: 8. September**
 
 **Zeit: TBA**
 
