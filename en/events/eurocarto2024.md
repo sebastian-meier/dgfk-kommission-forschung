@@ -2,11 +2,11 @@
 layout: page
 title: "Workshop: Critical Cartography"
 shortTitle: "Critical Cartography"
-description: "08.09, Vienna – Discuss your research with fellow researchers."
+description: "09.09, Vienna – Discuss your research with fellow researchers."
 socialMedia: "/images/social_media-workshop-euro24.png"
 trans: false
 lang: en
-subtitle: 08.09.2024 - Vienna
+subtitle: 09.09.2024 - Vienna
 parent: Events
 redirect_from:
   - "/de/events/eurocarto2024"
