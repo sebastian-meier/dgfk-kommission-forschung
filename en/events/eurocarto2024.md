@@ -18,7 +18,7 @@ Publications in recent years indicate a variety of perspectives on how critical 
 
 These and many more questions call for interdisciplinary exchange. We, Sebastian Meier (FH Potsdam) and Dennis Edler (Ruhr-Universität Bochum), therefore invite you to a joint workshop. We want to explore fundamental question around the current state of critical cartography. And invite researchers from all disciplines to share their diverse perspectives on this topic. The results will be published in a special issue entitled "The Future of Critical Cartography" in the journal "KN - Journal of Cartography and Geographic Information".
 
-The workshop will be held in conjunction with the 2024 [EuroCarto](https://eurocarto2024.org/) in Vienna (University of Technology).
+The workshop will be held in conjunction with the 2024 [EuroCarto](https://eurocarto2024.org/workshop-programme/#criticalcartography) in Vienna (University of Technology).
 
 **Date: September 8th**
 
@@ -26,4 +26,4 @@ The workshop will be held in conjunction with the 2024 [EuroCarto](https://euroc
 
 **Submission deadline: May 31st**
 
-To actively participate with a presentation, please submit an abstract of one page, plus references, via email to: [dennis.edler@rub.de](dennis.edler@rub.de). Every submission is invited to participate in the special issue with a full paper based on their submission. Please be aware, that there will be a second round of peer reviews, for the special issue.
+To actively participate with a presentation, please submit an abstract of one page, plus references, via email to: [dennis.edler@rub.de](mailto:dennis.edler@rub.de). Every submission is invited to participate in the special issue with a full paper based on their submission. Please be aware, that there will be a second round of peer reviews, for the special issue.

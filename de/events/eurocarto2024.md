@@ -18,7 +18,7 @@ Veröffentlichungen der letzten Jahre deuten auf eine Perspektivenvielfalt hin, 
 
 Diese und viele andere Fragen rufen nach interdisziplinärem Austausch. Daher laden wir, Sebastian Meier (FH Potsdam) und Dennis Edler (Ruhr Universität Bochum), zu einem gemeinsamen Workshop ein, in dem wir die Perspektivenvielfalt ergründen und grundlegende Fragen rund um den aktuellen Stand kritischer Kartographie diskutierten wollen. Ergebnisse sollen in einem Themenheft „The Future of Critical Cartography“ im Journal KN – Journal of Cartography and Geographic Information” festgehalten warden.
 
-Der Workshop findet im Rahmen der [EuroCarto](https://eurocarto2024.org/) 2024 in Wien (Technische Universität) statt.
+Der Workshop findet im Rahmen der [EuroCarto](https://eurocarto2024.org/workshop-programme/#criticalcartography) 2024 in Wien (Technische Universität) statt.
 
 **Datum: 8. September**
 
@@ -26,5 +26,5 @@ Der Workshop findet im Rahmen der [EuroCarto](https://eurocarto2024.org/) 2024 i
 
 **Deadline für Beiträge: 31. Mai**
 
-Vortrag-Abstracts von maximal einer Seite (ohne Referenzen) können bis zum 31. Mai, via Email eingereicht werden: [dennis.edler@rub.de](dennis.edler@rub.de). Alle aktiven Teilnehmer:innen sind eingeladen ihren Beitrag als Full Paper für das Special Issue einzureichen. Wir bitten zu beachten, dass für die Aufnahme in das Special Issue ein weiteres Peer Review stattfindet.
+Vortrag-Abstracts von maximal einer Seite (ohne Referenzen) können bis zum 31. Mai, via Email eingereicht werden: [dennis.edler@rub.de](mailto:dennis.edler@rub.de). Alle aktiven Teilnehmer:innen sind eingeladen ihren Beitrag als Full Paper für das Special Issue einzureichen. Wir bitten zu beachten, dass für die Aufnahme in das Special Issue ein weiteres Peer Review stattfindet.
 
