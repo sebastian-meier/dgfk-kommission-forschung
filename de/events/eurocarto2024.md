@@ -6,7 +6,7 @@ description: "08.09, Vienna – Discuss your research with fellow researchers."
 socialMedia: "/images/social_media-workshop-euro24.png"
 trans: false
 lang: de
-subtitle: 08.09.2025 - Vienna
+subtitle: 08.09.2024 - Vienna
 parent: Events
 ---
 
