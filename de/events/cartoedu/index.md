@@ -13,6 +13,9 @@ CartoEdu ist ein virtuelles Format, welches im Wechsel zum CartoHack und CartoCa
 Immer auf dem Laufenden über aktuelle, öffentliche Veranstaltungen der DGfK: <a href="https://newsletter.dgfk.net">Hier zum Newsletter anmelden.</a>
 
 ### Nächste Veranstaltungen
+
+Ab sofort werden neue Veranstaltungen nicht mehr auf dieser Seite angekündigt, sondern auf der <a href="https://dgfk.net/veranstaltungen/">Veranstaltungsseite</a> der DGfK veröffentlicht.
+
 <ul class="eventlist">
 {% assign event_count = 0 %}
 {% assign today = "now" | date: "%Y-%m-%d" %}
