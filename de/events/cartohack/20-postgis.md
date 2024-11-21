@@ -13,6 +13,6 @@ redirect_from:
 
 Theodor Rieche<br />
 
-<a href="https://tu-dresden.zoom-x.de/j/67164832887?pwd=FB3dqwQu3gwy5W1GKRne2BqP4IjjQ5.1">Zoom</a>, Passwort: =B99S2jk
+<a href="https://tu-dresden.zoom-x.de/j/63688272851?pwd=O6ncnag285sgR1U2ZVraxO1yESfdVd.1">Zoom</a>, Passwort: =B99S2jk
 
 Wie lassen sich raum-zeitliche Daten mit OpenSource Tools untersuchen? Dieser Erfahrungsbericht soll Einblicke in die Analysemöglichkeiten mit PostGIS und QGIS geben, und nutzt Daten eines Citizen Science Projektes aus Dresden.
